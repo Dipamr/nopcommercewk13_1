@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nopcommerce"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="179.991">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserShouldBuildyourOwnComputerAndAddThemToCartSuccessFully" time="50.806" classname="com.nopcommercewk13.testsuite.RegisterPageTest" />
+                <testcase name="verifyThatUserShouldBuildyourOwnComputerAndAddThemToCartSuccessFully" time="49.365" classname="com.nopcommercewk13.testsuite.RegisterPageTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="22.723" classname="com.nopcommercewk13.testsuite.RegisterPageTest" />
+                <testcase name="verifyThatUserShouldCreateAccountSuccessfully" time="4.463" classname="com.nopcommercewk13.testsuite.RegisterPageTest" />
+                <testcase name="verifyThatFirstNameEmailPasswordAndConfirmPasswordFieldsAreMandatory" time="2.567" classname="com.nopcommercewk13.testsuite.RegisterPageTest" />
+                <testcase name="verifyThatUserShouldBuildyourOwnComputerAndAddThemToCartSuccessFully" time="48.363" classname="com.nopcommercewk13.testsuite.RegisterPageTest" />
+                <testcase name="verifyUserShouldNavigateToRegisterPageSuccessfully" time="1.704" classname="com.nopcommercewk13.testsuite.RegisterPageTest" />
+      
+</testsuite>
